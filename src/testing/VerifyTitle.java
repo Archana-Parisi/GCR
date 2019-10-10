@@ -21,6 +21,9 @@ public class VerifyTitle {
 	//	catch(AssertionError e) {
 	//	driver.close();
 	//	}
+		System.out.println("hi");
+		System.out.println("hello");
+		System.out.println("bye");
 	}
 	@AfterMethod
 	public void closeBrowser(){

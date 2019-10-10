@@ -13,6 +13,11 @@ public class AdminLogin {
 	driver.manage().window().maximize();  //maximise the browser window
 	//navigate to google.com
 	driver.get("http://google.com");
+	System.out.println("gmail");
+	System.out.println("ymail");
+	System.out.println("yahoo");
+	System.out.println("rediff");
+	System.out.println("This is change made to check GitHUB branch");
 	}
 
 }
